@@ -58,11 +58,3 @@ src="https://img.shields.io/github/followers/dadadon?logo=github&style=for-the-b
 <a href="http://www.github.com/dadadon"><img src="https://activity-graph.herokuapp.com/graph?username=dadadon&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/dadadon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadadon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/dadadon/Investor-Conference-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadadon&repo=Investor-Conference-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/dadadon/Awesome-Books-ES6" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadadon&repo=Awesome-Books-ES6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/dadadon/To-Do-List" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadadon&repo=To-Do-List&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/dadadon/Leaderboard-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dadadon&repo=Leaderboard-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
